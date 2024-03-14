@@ -1,0 +1,11 @@
+Bahasa Pemrograman :
+1. Java
+2. Rust
+
+Bahasa Markup :
+1. HTML
+
+Framework :
+1. Express JS
+2. Astro JS
+3. Bootstrap
