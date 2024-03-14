@@ -1,0 +1,11 @@
+Bahasa Pemrograman :
+1. Javascript
+2. C++
+3. C
+4. PHP
+
+Framework :
+1. Laravel
+2. Node JS
+3. React
+4. Bootstrap
